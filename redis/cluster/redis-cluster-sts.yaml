@@ -59,7 +59,7 @@ spec:
               cpu: '2'
               memory: 4000Mi
             requests:
-              cpu: 500m
+              cpu: 100m
               memory: 500Mi
       volumes:
         - name: config
