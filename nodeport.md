@@ -8,7 +8,7 @@
 | :---------------------------: | :-------------------: | :------: |
 | RedisInsight 服务外部访问端口 | redisinsight-external |  31000   |
 | Nacos MySQL 服务外部访问端口  | nacos-mysql-external  |  31006   |
-|                               |                       |          |
+|    Nacos 服务外部访问端口     |    nacos-external     |  31848   |
 |                               |                       |          |
 |                               |                       |          |
 |                               |                       |          |
